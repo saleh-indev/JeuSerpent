@@ -1,3 +1,3 @@
-# JeuSerpent
-Clône du jeu de serpent en Java avec javaSwing gestionnaire d'interface graphique
+# Sudoku
+Une partie du code en langage C++ du celebre jeu Sudoku
 
